@@ -11,8 +11,9 @@ This is a simple Python script that automates password cracking using **John the
 - 
 ##Cracked password is stored in
 
+```bash
 ~/.john/john.pot
-
+```
 To crack a new hash, delete the old cracked results
 ## Usage
 
