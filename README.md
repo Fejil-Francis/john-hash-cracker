@@ -8,6 +8,7 @@ This is a simple Python script that automates password cracking using **John the
 - Saves the hash to a file
 - Automatically unzips `rockyou.txt.gz` if necessary
 - Runs John the Ripper with NT format
+  
 ##Cracked password is stored in
 
 ```bash
