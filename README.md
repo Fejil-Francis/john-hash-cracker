@@ -9,7 +9,7 @@ This is a simple Python script that automates password cracking using **John the
 - Automatically unzips `rockyou.txt.gz` if necessary
 - Runs John the Ripper with NT format
   
-##Cracked password is stored in
+## Cracked password is stored in
 
 ```bash
 ~/.john/john.pot
