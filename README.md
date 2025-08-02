@@ -14,7 +14,7 @@ This is a simple Python script that automates password cracking using **John the
 ```bash
 ~/.john/john.pot
 ```
-To crack a new hash, delete the old cracked results
+To crack a new hash, delete the old cracked results from the .john folder. Also, delete the hash file where the previous hash was stored.
 ## Usage
 
 ```bash
