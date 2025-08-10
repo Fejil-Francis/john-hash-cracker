@@ -31,3 +31,4 @@ After cracking, the results are stored in:
 
 ## To crack a new hash, delete the old cracked results from the .john folder. Also, delete the hash file where the previous hash was stored.
 
+<img width="555" height="161" alt="delete" src="https://github.com/user-attachments/assets/4199168a-1f25-4208-9edc-949b15a91525" />
