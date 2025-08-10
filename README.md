@@ -13,6 +13,12 @@ A simple yet powerful Python script that automates password cracking using **Joh
 - 🧠 Stores cracked passwords in a persistent `.pot` file for later lookup
 
 ---
+## Usage
+
+```bash
+python3 john.py
+```
+<img width="649" height="258" alt="johnpass" src="https://github.com/user-attachments/assets/50877745-9e4d-46d5-b11a-28dfe65ed7c0" />
 
 ## 📂 Where Are Cracked Passwords Stored?
 
@@ -21,9 +27,7 @@ After cracking, the results are stored in:
 ```bash
 ~/.john/john.pot
 ```
-## To crack a new hash, delete the old cracked results from the .john folder. Also, delete the hash file where the previous hash was stored.
-## Usage
+<img width="399" height="64" alt="johnpot" src="https://github.com/user-attachments/assets/d6c53b6d-a0fc-4af4-aad5-a5c6ebff639f" />
 
-```bash
-python3 john.py
+## To crack a new hash, delete the old cracked results from the .john folder. Also, delete the hash file where the previous hash was stored.
 
