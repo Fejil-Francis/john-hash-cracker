@@ -27,6 +27,9 @@ After cracking, the results are stored in:
 ```bash
 /.john/john.pot
 ```
+```bash
+cat john.pot
+```
 <img width="399" height="64" alt="johnpot" src="https://github.com/user-attachments/assets/d6c53b6d-a0fc-4af4-aad5-a5c6ebff639f" />
 
 ## To crack a new hash, delete the old cracked results from the .john folder. Also, delete the hash file where the previous hash was stored.
