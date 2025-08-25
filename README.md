@@ -22,10 +22,10 @@ python3 john.py
 
 ## 📂 Where Are Cracked Passwords Stored?
 
-After cracking, the results are stored in:
+After cracking, the results are stored in john.pot in .john folder
 
 ```bash
-/.john/john.pot
+cd /.john/john.pot
 ```
 ```bash
 cat john.pot
