@@ -13,6 +13,10 @@ A simple yet powerful Python script that automates password cracking using **Joh
 - 🧠 Stores cracked passwords in a persistent `.pot` file for later lookup
 
 ---
+## If john tool is not installed,use following command for installing.
+```bash
+sudo apt-get install -y john
+```
 ## Usage
 
 ```bash
