@@ -4,7 +4,7 @@ A simple yet powerful Python script that automates password cracking using **Joh
 
 
 ---
-The rockyou.txt file is a famous password wordlist that contains millions of common passwords collected from real-world data breaches. It is the Perfect one for ethical hacking practice and learning how hash cracking works in real-world scenarios.
+The rockyou.txt file is a famous password wordlist that contains millions of common passwords collected from real-world data breaches. It is the perfect one for ethical hacking practice and learning how hash cracking works in real-world scenarios.
 
 ---
 
