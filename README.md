@@ -1,6 +1,10 @@
 # 🔐 John Hash Cracker
 
-A simple yet powerful Python script that automates password cracking using **John the Ripper** and the classic `rockyou.txt` wordlist. Perfect for ethical hacking practice and learning how hash cracking works in real-world scenarios.
+A simple yet powerful Python script that automates password cracking using **John the Ripper** and the classic `rockyou.txt` wordlist. 
+
+
+---
+The rockyou.txt file is a famous password wordlist that contains millions of common passwords collected from real-world data breaches. It is the Perfect one for ethical hacking practice and learning how hash cracking works in real-world scenarios.
 
 ---
 
